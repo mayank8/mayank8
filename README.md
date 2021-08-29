@@ -1,8 +1,8 @@
 <h2 align="left">
  <abc>
   <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> नमस्ते (Namaste)🙏🏻, I'm Akash  Gupta! <br>
-  <br> SDET-2 at Mindtickle 💻<br>
+  <br> नमस्ते (Namaste)🙏🏻, I'm Mayank  Gupta! <br>
+  <br> BackEnd Developer at Amdocs 💻<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -52,22 +52,21 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashgupta03&show_icons=true&locale=en&layout=compact" alt="akashgupta03" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashgupta03&show_icons=true&locale=en&layout=compact" alt="mayank8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashgupta03&show_icons=true&locale=en" alt="akashgupta03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashgupta03&show_icons=true&locale=en" alt="mayank8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgupta03&" alt="akashgupta03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgupta03&" alt="mayank8" /></p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 I'm currently working on Automation
+- 💻 I'm currently working on Back End Development
 - 🚀 Always ready to collaborate for Dev Experiments
-- 👨‍💻 Former SDET at amazon
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 💬 Ask me about anything related to Automation
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 - 👨🏽‍💻 Pronouns: He/him
-- 📫 How to reach me **akashgupta.gupta16@gmail.com**
+- 📫 How to reach me **mayank.about@gmail.com**
 
 <h3 align="left">❤️ Let's get connected::</h3>
 <p align="left">
