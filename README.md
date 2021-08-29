@@ -52,11 +52,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akashgupta03&show_icons=true&locale=en&layout=compact" alt="mayank8" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank8&show_icons=true&locale=en&layout=compact" alt="mayank8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashgupta03&show_icons=true&locale=en" alt="mayank8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank8&show_icons=true&locale=en" alt="mayank8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgupta03&" alt="mayank8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank8&" alt="mayank8" /></p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
