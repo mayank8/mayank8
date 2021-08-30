@@ -66,5 +66,5 @@
 <a href="https://twitter.com/mayanics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mayanics" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mayankinc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-gupta-mayankgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/mayank.0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank.0_0" height="30" width="40" /></a>
-<a href="https://northpark.in/" target="blank"><img align="center" src="https://www.northpark.in" alt="northpark" height="40" width="40" /></a>
+<a href="https://northpark.in/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/HnIOGPAknzlxx_tUCz9oeR1yhsYaFGB_PZihV2LeHidbcZd9SDI7u3jeTQRt-AGqVzA=w144-h144-n-rw" alt="northpark" height="40" width="40" /></a>
 </p>
