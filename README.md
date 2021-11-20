@@ -9,7 +9,6 @@
 </h2> 
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
 
-<a href="https://tinyurl.com/mynkgptcv/">
 
 <p>
 
@@ -61,6 +60,7 @@
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 - 👨🏽‍💻 Pronouns: He/him
 - 📫 How to reach me **mayank.about@gmail.com**
+- Download my resume **https://tinyurl.com/mynkgptcv/**
 
 <h3 align="left">❤️ Let's get connected::</h3>
 <p align="left">
