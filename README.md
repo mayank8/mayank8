@@ -9,6 +9,7 @@
 </h2> 
 <h2 align="left">🛠️ Technologies and Tools I use:</h2>
 
+<a href="https://tinyurl.com/mynkgptcv/">
 
 <p>
 
