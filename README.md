@@ -56,7 +56,7 @@
 - 💻 I'm currently working on Back End Development
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-- 💬 Ask me about anything related to Automation
+- 💬 Ask me about anything related to Python
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 - 👨🏽‍💻 Pronouns: He/him
 - 📫 How to reach me **mayank.about@gmail.com**
