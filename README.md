@@ -5,7 +5,7 @@
   <br> नमस्ते (Namaste)🙏🏻, I'm Mayank  Gupta! <br>
   <br> BackEnd Developer at Amdocs 💻<br>
   <br> <a href="https://tinyurl.com/mynkgptcv/" target="_blank"> <img src="https://digitalmarketing.temple.edu/lcollins/wp-content/uploads/sites/245/2018/09/Download-Resume-Button.png" alt="python" width="300" height="80"/> </a> 
-
+ 
   <br> 
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
